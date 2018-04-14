@@ -1,3 +1,5 @@
+(This document is a Work in Progress, while I determine what I should tackle, and what I need for the project.)
+
 Concepts Implementation:
   - A* Pathfinding
   - Loading/Unloading multiple levels
