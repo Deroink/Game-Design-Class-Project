@@ -12,3 +12,9 @@ Classes to Make:
 
 Classes to Re-make:
   - TBD. Need to assess where improvements are needed the most.
+
+
+Assets, Sounds, Music:
+  - Dummy art assets will need to be replaced as the project goes on.
+  - Need to make original sound effects for various instances of the game.
+  - Need to make some dummy sample music.
