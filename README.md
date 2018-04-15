@@ -1,6 +1,8 @@
 # Game-Design-Class-Project
 Developed using the MonoGame framework. Class project for one of my last electives that I handled the code for. 
 
+The code will be present, but the best I can do for art assets, as of writing this (4/14/18) is upload some dummy textures, since the art for the project was done by a friend, so I can't really use it. Same thing with sounds.
+
 For some background information, the class in question simply required a finished game. If you've seen my other projects, you can probably guess most of my work is practiced with C#.
 To that end, I wanted to make a game that followed the kind of games I like, tactics RPG games, a grid and turn-based strategy game with RPG elements.
 This was a group effort, where other people handled things like art, sound, etc, whereas I just focused on the coding and then asked people for their thoughts.
