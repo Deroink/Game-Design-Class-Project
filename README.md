@@ -1,4 +1,20 @@
 # Game-Design-Class-Project
+
+# Recent Additions/Changes (As of 5/6/18):
+
+- Updated the read-me list to possess the to-do list to where it is easily visible, to have a grasp on what I'm doing at this time.
+
+# To-Do List (Updated 5/6/18):
+
+1.) Prepare game for uploading - Remove or replace sounds, art, etc. with "dummy assets" to avoid any potential issues, seeing as other members of the group handled that stuff. I just did the code.
+
+2.) Create deployable version of game - Once the dummy textures are in-place of the game, the game itself can be run, with a few image adjustments, such as in-game scaling. After this is adjusted, the game will be as playable as it was before, when I submitted the final version of the project.
+
+3.) TBD
+
+
+# Project Information (Updated 4/14/18): 
+
 Developed using the MonoGame framework. Class project for one of my last electives that I handled the code for. 
 
 The code will be present, but the best I can do for art assets, as of writing this (4/14/18) is upload some dummy textures, since the art for the project was done by a friend, so I can't really use it. Same thing with sounds.
