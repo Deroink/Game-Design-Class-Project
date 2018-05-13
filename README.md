@@ -1,23 +1,17 @@
 # Game-Design-Class-Project
 
-# Recent Additions/Changes (As of 5/6/18):
+# Recent Additions/Changes (As of 5/12/18):
 
-- Updated the read-me list to possess the to-do list to where it is easily visible, to have a grasp on what I'm doing at this time.
+- Uploaded code from the project's first iteration into the "OldProjectFiles" section.
 
-# To-Do List (Updated 5/6/18):
+# To-Do List (Updated 5/12/18):
 
-1.) Prepare game for uploading - Remove or replace sounds, art, etc. with "dummy assets" to avoid any potential issues, seeing as other members of the group handled that stuff. I just did the code.
-
-2.) Create deployable version of game - Once the dummy textures are in-place of the game, the game itself can be run, with a few image adjustments, such as in-game scaling. After this is adjusted, the game will be as playable as it was before, when I submitted the final version of the project.
-
-3.) TBD
+- Start new version of the project.
 
 
 # Project Information (Updated 4/14/18): 
 
 Developed using the MonoGame framework. Class project for one of my last electives that I handled the code for. 
-
-The code will be present, but the best I can do for art assets, as of writing this (4/14/18) is upload some dummy textures, since the art for the project was done by a friend, so I can't really use it. Same thing with sounds.
 
 For some background information, the class in question simply required a finished game. If you've seen my other projects, you can probably guess most of my work is practiced with C#.
 To that end, I wanted to make a game that followed the kind of games I like, tactics RPG games, a grid and turn-based strategy game with RPG elements.
